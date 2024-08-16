@@ -1,6 +1,6 @@
 ## Hi there I'm Santosh Guntuka 👋
 
-![Profile Image](https://github.com/yourusername.png)
+![Profile Image](https://github.com/santoshguntuka.png)
 
 
 ## About Me
