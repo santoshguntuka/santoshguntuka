@@ -1,6 +1,5 @@
 ## Hi there I'm Santosh Guntuka 👋
 
-![Profile Image](https://github.com/santoshguntuka.png)
 
 
 ## About Me
@@ -16,5 +15,9 @@ When I'm not coding, I enjoy playing chess and tennis, which help me sharpen my 
 - **Languages:** JavaScript, Python, TypeScript
 - **Frameworks:** React, Node.js, Express
 - **Tools:** Docker, Kubernetes, GitHub Actions
+
+
+
+![Profile Image](https://github.com/santoshguntuka.png)
 
 
