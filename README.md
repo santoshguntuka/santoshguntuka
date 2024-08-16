@@ -18,6 +18,6 @@ When I'm not coding, I enjoy playing chess and tennis, which help me sharpen my 
 
 
 
-![Profile Image](https://github.com/santoshguntuka.png)
+
 
 
